@@ -1,10 +1,8 @@
-![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
+file .evn.local
+VITE_CLERK_PUBLISHABLE_KEY=pk_test_bGFyZ2UtY3JhbmUtMy5jbGVyay5hY2NvdW50cy5kZXYk
 
-# React + Vite
+VITE_STRAPI_API_KEY=a10efd9438ba0805901069ef130dbaeb06dec09d9051cf9c90667e58349e4c71f313c070f6227006a00ea3e70e5e98d1b48ed6e286da2127346373edd9018cb4bd48dc66cc7270e40eecfe03888539771a59094d0db856a3fee12af4e8707a55ae0510b61f9673135b002a82b75c4a476282d3ca56e6fbb57053c52c978e3a0c
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VITE_GOOGLE_AI_API_KEY=AIzaSyAeWIIDDP_9AxEQyPM6g1M8tyjHHJ0vshI
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VITE_BASE_URL=https://strapi-admin-t3fc.onrender.com
